@@ -12,7 +12,7 @@ list = response['data']
 
 for index,value in enumerate(list):
     i = value.get('query')
-    me.addEntity("maltego.IPv4Address", i)
+    me.addEntity("maltego.Domain", i)
 
 me.returnOutput()
 
