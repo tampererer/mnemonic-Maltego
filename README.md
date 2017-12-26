@@ -2,7 +2,7 @@
 Maltego Local Transforms to use mnemonic Passive DNS - https://passivedns.mnemonic.no/
 
 # Prerequisites
-- Python 2.7.x
+- Python 2.7.x + requests, re module
 
 # Setup
 - Put all python files into your working directory. (e.g. C:\Maltego\Transforms\mnemonic)
