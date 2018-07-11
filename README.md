@@ -26,11 +26,11 @@ Maltego Local Transforms to use mnemonic Passive DNS - https://passivedns.mnemon
 
 # Transforms
 - [mnemonic] domain_to_ip  
-Input:   
-Output:  
-<img src="https://user-images.githubusercontent.com/16297449/42553671-b78fc616-851c-11e8-8a0c-02424785a71e.png">
+Input: Domain  
+Output: IP address 
+<img src="https://user-images.githubusercontent.com/16297449/42553671-b78fc616-851c-11e8-8a0c-02424785a71e.png" width="600">
 
 - [mnemonic] ip_to_domain  
-Input:   
-Output:   
-<img src="https://user-images.githubusercontent.com/16297449/42553756-15e86d30-851d-11e8-9993-14c9bfa8cd13.png">
+Input: IP address  
+Output: Domain  
+<img src="https://user-images.githubusercontent.com/16297449/42553756-15e86d30-851d-11e8-9993-14c9bfa8cd13.png" width="600">
