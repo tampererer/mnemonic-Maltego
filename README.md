@@ -26,4 +26,6 @@ Maltego Local Transforms to use mnemonic Passive DNS - https://passivedns.mnemon
 
 # Transforms
 - [mnemonic] domain_to_ip
+![mnemonic-domain](https://user-images.githubusercontent.com/16297449/42553671-b78fc616-851c-11e8-8a0c-02424785a71e.png)
 - [mnemonic] ip_to_domain
+![mnemonic-ip](https://user-images.githubusercontent.com/16297449/42553756-15e86d30-851d-11e8-9993-14c9bfa8cd13.png)
