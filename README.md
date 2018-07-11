@@ -16,6 +16,14 @@ Maltego Local Transforms to use mnemonic Passive DNS - https://passivedns.mnemon
   Command line = C:\Python27\python.exe  
   Working directory = C:\Maltego\Transforms\mnemonic
 
+# セットアップ
+- 全てのPythonファイルを、このTransform用に作ったディレクトリに置いてください。（例： C:\Maltego\Transforms\mnemonic）
+- mnemonic.mtz を開いて、Maltegoの設定をインポートしてください。
+- mtzファイルに含まれる設定では、下記のディレクトリが指定されていますが、自分の環境に合わせて変更してください。（Maltego -> Transforms -> Transform Manager）
+
+  Command line = C:\Python27\python.exe  
+  Working directory = C:\Maltego\Transforms\mnemonic
+
 # Transforms
-- domain_to_ip.py
-- ip_to_domain.py
+- [mnemonic] domain_to_ip
+- [mnemonic] ip_to_domain
